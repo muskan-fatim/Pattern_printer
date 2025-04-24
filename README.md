@@ -28,7 +28,7 @@ This project allows you to create visually appealing patterns using the turtle g
 ## Installation Steps
 
 1. **Make sure you have Python installed.** You can download it from [python.org](https://www.python.org/).
-2. **Clone the repository:**  `git clone <repository_url>` (Replace `<repository_url>` with the actual URL of your GitHub repository).
+2. **Clone the repository:**  `git clone <https://github.com/muskan-fatim/Pattern_printer.git>` 
 3. **Navigate to the project directory:** `cd Pattern_printer`
 
 
